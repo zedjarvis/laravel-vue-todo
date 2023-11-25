@@ -38,7 +38,7 @@ The Laravel Vue3 Todo App is a full-stack web application that leverages the pow
 
 ## Usage
 
-Visit http://localhost:8000 in your browser to access the application.
+Visit http://localhost:8000/todo in your browser to access the application.
 
 ## Contributing
 
